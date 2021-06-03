@@ -11,7 +11,7 @@ public class AppConfig {
     @Bean
     public HelloWorld helloWorldBean(){
             HelloWorld helloWorld = new HelloWorld();
-            helloWorld.setMessage("hello world java");
+            helloWorld.setMessage("hello world javakhjdfhgkjfdhfkg");
             return  helloWorld;
     }
 }
